@@ -1,0 +1,43 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "watch": "mix watch"
+    },
+    "devDependencies": {
+        "@headlessui/react": "^1.4.2",
+        "@inertiajs/inertia": "^0.11.0",
+        "@inertiajs/inertia-react": "^0.8.1",
+        "@inertiajs/progress": "^0.2.6",
+        "@popperjs/core": "^2.10.2",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-react": "^2.0.0",
+        "alpinejs": "^3.4.2",
+        "autoprefixer": "^10.4.12",
+        "axios": "^0.27",
+        "bootstrap": "^5.2.1",
+        "flowbite": "^1.5.3",
+        "laravel-mix": "^6.0.49",
+        "laravel-mix-tailwind": "^0.1.2",
+        "laravel-vite-plugin": "^0.6.0",
+        "lodash": "^4.17.19",
+        "mix-tailwindcss": "^1.3.0",
+        "postcss": "^8.4.18",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "sass": "^1.56.1",
+        "tailwindcss": "^3.2.1",
+        "vite": "^3.0.0"
+    },
+    "dependencies": {
+        "@ant-design/icons": "^4.8.0",
+        "cors": "^2.8.5",
+        "json_encode": "^0.1.0",
+        "react-slick": "^0.29.0",
+        "slick-carousel": "^1.8.1",
+        "ssr": "^6.2.39",
+        "styled-components": "^5.3.6",
+        "vue": "^3.2.47"
+    }
+}
